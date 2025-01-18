@@ -16,19 +16,7 @@ Daftar Algoritma yang support: <a href=https://moneyblink.com/omSzhwaDak>List Al
 ## DONASI
 Verus (VRSC)
 ```
-RGdgdAU7xB3vEwSfhPYGJJY9R85iAvhVtS
-```
-Digibyte (DGB)
-```
-DRz9CYkQDmtUZUCT3YHR4i5giwhBcAAdva
-```
-Sugarchain (SUGAR)
-```
-sugar1qxc2lqyhdkzp6vacamw8mandszhrpaznkuzsnar
-```
-Scala (XLA)
-```
-Ssy2PTEKz8J5Pi6hT8Bj4e27fdhgUpkx8FeU4tBs1EhrBNvqKYF72m3YXmW6cxhCYv3RefW8C2egxYqGKrQoJN3X5Cnbw9UDY7
+VerusRXBGTMNk7esyqbPGvTGoMGaFviF6eWoBBH
 ```
 
 ## Bahan-Bahan Mining
