@@ -29,7 +29,7 @@ VerusRXBGTMNk7esyqbPGvTGoMGaFviF6eWoBBH
 ```
 yes | pkg update && pkg upgrade
 pkg install wget
-wget https://raw.githubusercontent.com/zcdk077/xmrig-termux/master/build-android.sh
+wget https://raw.githubusercontent.com/newcyber/xmrig-termux/master/build-android.sh
 chmod +x build-android.sh
 ./build-android.sh
 rm -r build-android.sh
